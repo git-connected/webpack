@@ -52,7 +52,7 @@
     "date-fns": "^2.15.0",
     "es5-ext": "^0.10.53",
     "es6-promise-polyfill": "^1.2.0",
-    "eslint": "^7.14.0",
+    "eslint": "^8.17.0",
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-jest": "^24.3.6",
     "eslint-plugin-jsdoc": "^33.0.0",
